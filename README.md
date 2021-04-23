@@ -1,5 +1,5 @@
 # SaltyModder
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/biz/fund?id=3VBKQPRDPE8ME)
+[![Donazioni](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/biz/fund?id=3VBKQPRDPE8ME) [![Twitch](https://img.shields.io/twitch/status/gabrylive_?style=social)](https://www.twitch.tv/gabrylive_) [![YouTube](https://img.shields.io/youtube/channel/views/UCaZBEMdNkpfz3gikdIjvLzg?label=YouTube&style=social)](https://www.youtube.com/channel/UCaZBEMdNkpfz3gikdIjvLzg)
 
 SaltyModder è un semplice programma che permette di aggiungere delle mod (visive) all'interno di Brawlhalla, non influenza il gioco e le meccaniche e NON è considerato cheating! Al momento vi è solo una skin (non ancora del tutto terminata) di CieNNe.
 
