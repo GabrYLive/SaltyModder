@@ -3,6 +3,8 @@
 
 SaltyModder è un semplice programma che permette di aggiungere delle mod (visive) all'interno di Brawlhalla ed una mappa custom in AmongUs (attualmente solo i membri ST possono accedervi)
 
+![immagine_demo](git-content/ST.PNG)
+
 **[!]La mod di Brawlhalla non infulisce con le meccaniche di gioco essendo solo una soft-mod visiva, per cui non è considerato cheating.**                                         
 **[!]La mod di AmongUs è adeguata alle policy Innersloth.**
 
