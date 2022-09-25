@@ -9,5 +9,5 @@ Verrà migliorata l'interfaccia e il software riscritto totalmente da zero utliz
 #### ver.2.0.0
 >![immagine_demo](git-content/ST.PNG)
 
-#### Sneak Peeks grafici ver.3.0.0 (in-dev.)
+#### Sneak Peek grafico ver.3.0.0 (in-dev.)
 >![immagine_demo](git-content/SM_snpk2.png)
